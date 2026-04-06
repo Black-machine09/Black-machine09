@@ -1,11 +1,11 @@
-<h1 align="center">Hey, I'm Domingos Mbala 👋</h1>
+<h1 align="center">Hey, I'm Domingos Mbala </h1>
 
 <p align="center">
   Backend Developer · Security Analyst · Ethical Hacker
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Backend+Developer+%7C+Python+%26+FastAPI;Security+Analyst+%7C+Ethical+Hacker;Bug+Bounty+Hunter+%7C+HackerOne;Open+to+Remote+Work+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&width=435&lines=Backend+Developer+%7C+Python+%26+FastAPI;Security+Analyst+%7C+Ethical+Hacker;Bug+Bounty+Hunter+%7C+HackerOne" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🔭 Backend Developer specializing in **Python & FastAPI**
 - 🔐 Security Analyst focused on **Web Application Pentesting**
 - 🐛 Active **Bug Bounty Hunter** on HackerOne & Intigriti
-- 🌍 Based in **Luanda, Angola** — open to remote work with European companies
+- 🌍 Based in **Luanda, Angola**
 - 🎯 Currently focused on: **API Security & Red Team techniques**
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -59,9 +59,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/domingos-mbala-763117288/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/dm-09?type=user)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domingosmbala325@gmail.com)
-
----
-
-<p align="center">
-  <i>Open to freelance projects and remote opportunities with European companies 🌍</i>
-</p>
